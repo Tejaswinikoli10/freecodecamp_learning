@@ -241,3 +241,30 @@ Below the h3 element, add an ordered list with these three list items:
 
 flea treatment thunder other cats
 ==============================================================================================================================
+Step 30
+After the ordered list, add another figure element.
+============================================================================================================================
+Step 31Passed
+Inside the figure element you just added, nest an img element with a src attribute set to https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg.
+===========================================================================================================================
+Step 32
+To improve the accessibility of the image you added, add an alt attribute with the text:
+
+Five cats looking around a field.
+==============================================================================================================================
+Step 33
+After the last img element, add a figcaption element with the text Cats hate other cats.
+====================================================================================================================================
+Step 34
+The strong element is used to indicate that some text is of strong importance or urgent.
+
+In the figcaption you just added, indicate that hate is of strong importance by wrapping it in a strong element.
+=================================================================================================================================
+Step 35
+The footer element is used to define a footer for a document or section. A footer typically contains information about the author of the document, copyright data, links to terms of use, contact information, and more.
+
+After the main element, add a footer element.
+====================================================================================================================================
+Step 36
+Nest a p element with the text No Copyright - freeCodeCamp.org within the footer element.
+================================================================================================================================
