@@ -1,0 +1,6 @@
+You should have a !DOCTYPE html declaration.
+============================================================
+You should have an html element with lang set to en.
+===============================================================
+You should have a head element containing a title element with the name of your recipe, and a meta element with a charset attribute set to UTF-8.
+==================================================================
