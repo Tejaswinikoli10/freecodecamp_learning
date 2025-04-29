@@ -15,3 +15,5 @@ You should have one h2 element with the text Ingredients for the ingredients sec
 You should have an unordered list (ul element) with at least four list items (li elements) that lists your ingredients below the first h2 element
 ===========================================================================================================================================
 You should have a second h2 element with the text Instructions for the instructions section.
+=============================================================================================================================================
+You should have an ordered list (ol element) with at least four list items that lists the recipe steps in order, below the second h2.
