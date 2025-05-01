@@ -1,3 +1,6 @@
 You should have a DOCTYPE declaration.
 You should have an html element with lang set to en.
 You should have a head element containing a meta void element with charset set to utf-8 and a title with the text Travel Agency Page.
+You should have a meta tag in your head element that contains a short description of your website for SEO.
+You should have an h1 element to present your travel destinations.
+You should have a paragraph below the h1 element introducing the travel opportunities.
