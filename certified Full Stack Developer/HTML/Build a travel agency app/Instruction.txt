@@ -6,3 +6,4 @@ You should have an h1 element to present your travel destinations.
 You should have a paragraph below the h1 element introducing the travel opportunities.
 You should have an h2 element with the text Packages.
 You should have a p element introducing briefly the various packages.
+You should have an unordered list element with two list items. The two list items should have the text Group Travels and Private Tours, respectively. The text of each list item should be enclosed by an anchor element.
