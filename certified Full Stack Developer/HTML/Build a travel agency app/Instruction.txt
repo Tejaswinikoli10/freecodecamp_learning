@@ -4,3 +4,5 @@ You should have a head element containing a meta void element with charset set t
 You should have a meta tag in your head element that contains a short description of your website for SEO.
 You should have an h1 element to present your travel destinations.
 You should have a paragraph below the h1 element introducing the travel opportunities.
+You should have an h2 element with the text Packages.
+You should have a p element introducing briefly the various packages.
