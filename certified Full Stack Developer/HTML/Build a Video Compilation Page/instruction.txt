@@ -1,0 +1,1 @@
+You should have a main element as the only child of the body element.
