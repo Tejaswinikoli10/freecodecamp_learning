@@ -1,2 +1,3 @@
  ######## Build a video compilation page #######
 You should have a main element as the only child of the body element.
+You should have an h1 element with the topic of your page.
